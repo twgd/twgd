@@ -1,7 +1,7 @@
-<h3 align="center">Hi 👋, I'm TWGD</h3>
+<h3 align="center">Hi 👋, I'm Shane Huang a.k.a. TWGD</h3>
 
 <p align="center">
-  <a href="https://www.twgd.me" target="_blank">Website</a> •
+  <a href="https://www.twgd.me" target="_blank">Official Website</a> •
   <a href="https://twitter.com/thetwgd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="24" width="32" /></a> •
   <a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
@@ -21,7 +21,12 @@
 
 <br />
 
-✨ I'm a web developer from Taiwan. I'm looking to collaborate on cool web apps!
+✨ I'm a **web developer** from Taiwan and technical writer passionate about
+building **better** websites that have lightning fast and resilient **user experience**.
+
+I advocates for writing Good Code with Tests to improve **code confidence** and think strategically to be an efficient programmer.
+
+I love exploring web technologies, and sharing my knowledge with others on my Blog. I'm looking to collaborate on cool web apps!
 
 <br />
 
