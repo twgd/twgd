@@ -21,12 +21,12 @@
 
 <br />
 
-✨ I'm a **web developer** from Taiwan and technical writer passionate about
+✨ I'm a **web developer** from Taiwan and **technical writer** passionate about
 **building better websites** that have lightning fast and resilient **user experience**.
 
-I advocates for writing Good Code with Tests to improve **code confidence** and **thinking strategically** to be an efficient programmer.
+I advocate writing Good Code with Tests to improve **code confidence** and **thinking strategically** to be an efficient programmer.
 
-I love exploring web technologies, and sharing my knowledge with others on my Blog. I'm looking to collaborate on cool web apps!
+I love exploring web technologies, and sharing my knowledge with others on [My Blog](https://www.twgd.me/posts). I'm looking to collaborate on cool web apps!
 
 <br />
 
@@ -49,10 +49,10 @@ const twgd = {
 
 ### Check it out:
 
-- 👨‍💻 Know more about me at: <a href="https://www.twgd.me/about" target="_blank">About</a>
-- 📝 I write articles on: <a href="https://www.twgd.me/posts" target="_blank">Blog</a>
+- 👨‍💻 Know more about me at: <a href="https://www.twgd.me/about" target="_blank">About Me</a>
+- 📝 I write articles on: <a href="https://www.twgd.me/posts" target="_blank">My Blog</a>
 - ⚙️ What I use for coding: <a href="https://www.twgd.me/uses" target="_blank">My Gear</a>
-- 📫 Reach me: <a href="https://twitter.com/thetwgd" target="_blank">twitter.com/thetwgd</a>
+- 📫 Reach me: <a href="mailto: mail@twgd.me" target="_blank">Send Email</a>
 
 <br />
 
