@@ -21,12 +21,12 @@
 
 <br />
 
-✨ I'm a **web developer** from Taiwan and **technical writer** passionate about
-**building better websites** that have lightning fast and resilient **user experience**.
+✨ I'm a **web developer** from Taiwan and a **technical writer** passionate about 
+**building better websites** with lightning-fast and resilient **user experience**.
 
-I advocate writing Good Code with Tests to improve **code confidence** and **thinking strategically** to be an efficient programmer.
+I advocate writing good code with tests to improve **code confidence** and **thinking strategically** to be an efficient programmer.
 
-I love exploring web technologies, and sharing my knowledge with others on [My Blog](https://www.twgd.me/posts). I'm looking to collaborate on cool web apps!
+I love exploring web technologies and sharing my knowledge with others on [my blog](https://www.twgd.me/posts). I'm always looking to collaborate on cool web apps!
 
 <br />
 
