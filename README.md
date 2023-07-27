@@ -34,14 +34,14 @@ I love exploring web technologies and sharing my knowledge with others on [my bl
 
 ```javascript
 const twgd = {
-  pronouns: 'she' | 'her',
+  pronouns: 'she/her',
   learning: {
-    programming: ['Rust🦀', 'Algorithm', 'Testing'],
+    programming: ['Rust 🦀', 'Algorithms', 'Testing'],
     foreignLanguage: ['Japanese'],
-    other: ['Investing📈'],
+    other: ['Investing 📈'],
   },
-  hobby: ['Workout🏋️', 'Beetle Rearing🐞'],
-  funFact: 'I am a Pokémon GO trainer.',
+  hobbies: ['Working out 🏋️', 'Rearing beetles 🐞'],
+  funFact: 'I am a Pokémon GO trainer!',
 }
 ```
 
