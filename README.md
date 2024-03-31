@@ -1,10 +1,10 @@
 <h3 align="center">Hi 👋, I'm Shane Huang a.k.a. TWGD</h3>
 
 <p align="center">
-<a href="https://www.twgd.me" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/website.svg" alt="my website icon" height="24" width="32" /></a> •
-<a href="https://twitter.com/thetwgd" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/x.svg" alt="Twitter icon" height="24" width="32" /></a> •
-<a href="https://www.instagram.com/twgd.me/" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/instagram.svg" alt="Instagram icon" height="24" width="32" /></a> •
-<a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/discord.svg" alt="Discord icon" height="24" width="32" /></a>
+<a href="https://www.twgd.me" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/website.svg" alt="my website icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
+<a href="https://twitter.com/thetwgd" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/x.svg" alt="Twitter icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
+<a href="https://www.instagram.com/twgd.me/" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/instagram.svg" alt="Instagram icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
+<a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/discord.svg" alt="Discord icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a>
 </p>
 
 <br />
