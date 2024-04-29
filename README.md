@@ -1,4 +1,11 @@
-<h3 align="center">Hi 👋, I'm Shane Huang a.k.a. TWGD</h3>
+<h3 align="center">Hi 👋, I'm Shane Huang</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=FCD34D&center=true&vCenter=true&multiline=true&random=false&width=435&lines=a.k.a.+TWGD" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=FCD34D&center=true&vCenter=true&random=false&width=720&lines=Strategic+thinker;Web+developer%EF%BC%8EHave+fun+with+JavaScript+%F0%9F%91%BB;Also%2C+a+runner+%F0%9F%8F%83" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.twgd.me" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/sf-regular-filled/48/FFFFFF/home-page.png"><img align="center" alt="homepage" title="homepage" height="32" width="32" src="https://img.icons8.com/sf-regular-filled/48/000000/home-page.png" /></picture></a> •
@@ -6,19 +13,6 @@
   <a href="https://www.instagram.com/twgd.me/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img align="center" alt="Instagram" title="Instagram" height="24" width="32" src="https://cdn.simpleicons.org/instagram" /></picture></a> •
   <a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white"><img align="center" alt="Discord" title="Discord" height="24" width="32" src="https://cdn.simpleicons.org/discord" /></picture></a>
 </p>
-
-<br />
-
-```
- ______                  ______  __      __  ____    ____
-/\__  _\                /\__  _\/\ \  __/\ \/\  _`\ /\  _`\
-\/_/\ \/     ___ ___    \/_/\ \/\ \ \/\ \ \ \ \ \L\_\ \ \/\ \
-   \ \ \   /' __` __`\     \ \ \ \ \ \ \ \ \ \ \ \L_L\ \ \ \ \
-    \_\ \__/\ \/\ \/\ \     \ \ \ \ \ \_/ \_\ \ \ \/, \ \ \_\ \
-    /\_____\ \_\ \_\ \_\     \ \_\ \ `\___x___/\ \____/\ \____/
-    \/_____/\/_/\/_/\/_/      \/_/  '\/__//__/  \/___/  \/___/
-
-```
 
 <br />
 
