@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.twgd.me" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/sf-regular-filled/48/FFFFFF/home-page.png"><img align="center" alt="homepage" title="homepage" height="32" width="32" src="https://img.icons8.com/sf-regular-filled/48/000000/home-page.png" /></picture></a> •
-  <a href="https://twitter.com/thetwgd" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img align="center" alt="Twitter" title="Twitter" height="24" width="32" src="https://cdn.simpleicons.org/github" /></picture></a> •
+  <a href="https://twitter.com/thetwgd" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img align="center" alt="Twitter" title="Twitter" height="24" width="32" src="https://cdn.simpleicons.org/x" /></picture></a> •
   <a href="https://www.instagram.com/twgd.me/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img align="center" alt="Instagram" title="Instagram" height="24" width="32" src="https://cdn.simpleicons.org/instagram" /></picture></a> •
   <a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white"><img align="center" alt="Discord" title="Discord" height="24" width="32" src="https://cdn.simpleicons.org/discord" /></picture></a>
 </p>
