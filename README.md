@@ -1,10 +1,10 @@
 <h3 align="center">Hi 👋, I'm Shane Huang a.k.a. TWGD</h3>
 
 <p align="center">
-<a href="https://www.twgd.me" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/website.svg" alt="my website icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
-<a href="https://twitter.com/thetwgd" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/x.svg" alt="Twitter icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
-<a href="https://www.instagram.com/twgd.me/" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/instagram.svg" alt="Instagram icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a> •
-<a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><img align="center" src="https://github.com/twgd/twgd/blob/master/images/discord.svg" alt="Discord icon" height="24" width="32" style="background-color: #cdd9e5;padding: 0.5rem;border-radius: 2rem;" /></a>
+  <a href="https://www.twgd.me" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/sf-regular-filled/48/FFFFFF/home-page.png"><img align="center" alt="homepage" title="homepage" height="32" width="32" src="https://img.icons8.com/sf-regular-filled/48/000000/home-page.png" /></picture></a> •
+  <a href="https://twitter.com/thetwgd" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img align="center" alt="Twitter" title="Twitter" height="24" width="32" src="https://cdn.simpleicons.org/github" /></picture></a> •
+  <a href="https://www.instagram.com/twgd.me/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img align="center" alt="Instagram" title="Instagram" height="24" width="32" src="https://cdn.simpleicons.org/instagram" /></picture></a> •
+  <a href="https://discord.gg/eN5dWwMbZJ" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white"><img align="center" alt="Discord" title="Discord" height="24" width="32" src="https://cdn.simpleicons.org/discord" /></picture></a>
 </p>
 
 <br />
